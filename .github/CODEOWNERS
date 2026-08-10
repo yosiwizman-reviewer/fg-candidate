@@ -1,0 +1,15 @@
+# FounderGate Construction Cage V2 — code owners
+#
+# The founder is the sole approver in this cage. Every path requires founder review, and the
+# founder-owned immutable paths are listed explicitly so the requirement survives any future
+# reorganisation of this file.
+#
+# This file is itself founder-owned and immutable. A pull request that modifies it is refused by
+# the governance path guard regardless of test results.
+
+*                   @yosiwizman-reviewer
+
+/ACCEPTANCE.md      @yosiwizman-reviewer
+/README.md          @yosiwizman-reviewer
+/.gitmodules        @yosiwizman-reviewer
+/.github/           @yosiwizman-reviewer
